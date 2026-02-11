@@ -1,1 +1,2 @@
-md sadiq is my name
+testing full command 
+with a github 
